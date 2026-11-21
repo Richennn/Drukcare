@@ -1,0 +1,16 @@
+﻿# personal health data: never upload
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.gradio/
+.streamlit/secrets.toml

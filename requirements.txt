@@ -1,0 +1,8 @@
+# DrukCare - install with:  pip install -r requirements.txt
+# (Tkinter ships with Python on Windows - nothing to install for it)
+streamlit>=1.40
+gradio>=6.0,<7
+pandas>=2.0
+plotly>=5.20
+matplotlib>=3.8
+Pillow>=10.1

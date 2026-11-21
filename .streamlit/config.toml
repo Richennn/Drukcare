@@ -1,0 +1,10 @@
+# DrukCare teal theme (matches the design samples).
+[theme]
+base = "light"
+primaryColor = "#018A94"
+backgroundColor = "#EAF5F9"
+secondaryBackgroundColor = "#F1F8FA"
+textColor = "#0E2A47"
+
+[browser]
+gatherUsageStats = false
